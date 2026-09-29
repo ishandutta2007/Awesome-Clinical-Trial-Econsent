@@ -61,24 +61,24 @@
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (descending order)* 🌟
+*Sorted by GitHub Stars_Count (descending order)* 🌟
 
-- [![GitHub stars](https://img.shields.io/github/stars/carp-dk/research.package?style=social&color=white)](https://github.com/carp-dk/research.package/stargazers) **[carp-dk/research.package](https://github.com/carp-dk/research.package)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/carp-dk/research.package?style=social&color=white)](https://github.com/carp-dk/research.package/stargazers) **[carp-dk/research.package](https://github.com/carp-dk/research.package)**  
   Flutter research package designed for building digital health and clinical research apps. Includes built-in support for **obtaining informed consent**, digital signature capture, step-by-step consent flows, and visual summary pages. **Open source, Flutter/Dart**.
 
-- [![GitHub stars](https://img.shields.io/github/stars/pryv/open-pryv.io?style=social&color=white)](https://github.com/pryv/open-pryv.io/stargazers) **[Pryv.io (open-pryv.io)](https://github.com/pryv/open-pryv.io)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/pryv/open-pryv.io?style=social&color=white)](https://github.com/pryv/open-pryv.io/stargazers) **[Pryv.io (open-pryv.io)](https://github.com/pryv/open-pryv.io)**  
   Personal data lifecycle and consent management infrastructure recognized as a **Digital Public Good** by the UN-endorsed DPGA. Features a federated consent protocol for decentralized remote clinical trials and real-world data (RWD) collection. **Open source, Node.js**.
 
-- [![GitHub stars](https://img.shields.io/github/stars/krishagni/openspecimen?style=social&color=white)](https://github.com/krishagni/openspecimen/stargazers) **[OpenSpecimen eConsents Module](https://github.com/krishagni/openspecimen)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/krishagni/openspecimen?style=social&color=white)](https://github.com/krishagni/openspecimen/stargazers) **[OpenSpecimen eConsents Module](https://github.com/krishagni/openspecimen)**  
   eConsents module within OpenSpecimen, a biobanking and clinical research platform. Enables collection of **IRB-formatted consents**, version control, eSignatures, multi-language support, and tablet patient mode data entry. **Open source, Java**.
 
-- [![GitHub stars](https://img.shields.io/github/stars/mosaic-hgw/gICS?style=social&color=white)](https://github.com/mosaic-hgw/gICS/stargazers) **[gICS (generic Informed Consent Service)](https://github.com/mosaic-hgw/gICS)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/mosaic-hgw/gICS?style=social&color=white)](https://github.com/mosaic-hgw/gICS/stargazers) **[gICS (generic Informed Consent Service)](https://github.com/mosaic-hgw/gICS)**  
   The most established open-source consent management service in research, developed at University Medicine Greifswald. Facilitates modular digital informed consent management, differentiated consent states, and automated system-to-system consent verification (336,000+ consents documented). **Open source, Java**.
 
-- [![GitHub stars](https://img.shields.io/github/stars/susom/multi-signature-consent?style=social&color=white)](https://github.com/susom/multi-signature-consent/stargazers) **[REDCap Multi-Signature Consent](https://github.com/susom/multi-signature-consent)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/susom/multi-signature-consent?style=social&color=white)](https://github.com/susom/multi-signature-consent/stargazers) **[REDCap Multi-Signature Consent](https://github.com/susom/multi-signature-consent)**  
   REDCap External Module that merges participant and coordinator consent signatures across multiple REDCap forms into a single consolidated eConsent PDF document for archival. **Open source, PHP**.
 
-- [![GitHub stars](https://img.shields.io/github/stars/RUB-SysSec/uninformed-consent?style=social&color=white)](https://github.com/RUB-SysSec/uninformed-consent/stargazers) **[Uninformed Consent Analysis Tool](https://github.com/RUB-SysSec/uninformed-consent)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/RUB-SysSec/uninformed-consent?style=social&color=white)](https://github.com/RUB-SysSec/uninformed-consent/stargazers) **[Uninformed Consent Analysis Tool](https://github.com/RUB-SysSec/uninformed-consent)**  
   Research framework for analyzing digital consent dialogs, compliance verification, and data tracking consent flows across automated applications. **Open source, Python**.
 
 - 💡 **[REDCap Enhanced eConsent Framework](https://projectredcap.org/)**  
